@@ -1,60 +1,73 @@
 ---
 name: ikt-pedagog
-description: School assignments in an ICT-pedagogy (IT-pedagog) course - checklist from the brief, simplest fitting output, the student's own style - and the frameworks RAT, PICRAT, SAMR and TPACK. Use for school tasks, submissions, presentations or when these frameworks are mentioned.
+description: Hannah's IKT-pedagog course: format of her school outputs, her Drive study materials and the frameworks PIC-RAT, RAT, SAMR, TPACK. Use whenever Hannah mentions a school task, inlämning, redovisning, PIC-RAT, SAMR, TPACK, IKT-pedagog or Skolverket.
 ---
 
-# ICT pedagogy – school assignments and pedagogical models
+# IKT-pedagog – school outputs and pedagogical models
 
-Built for a one-year distance course "IT-pedagog" at a Swedish folk high school (course "Pedagogik och digitala verktyg"). The student writes in Czech, school outputs are in Swedish. Works together with the skill learning-with-ai, which sets HOW we learn.
+*(A Czech version of this skill is in `SKILL.cs.md`.)*
 
-Don't explain the models from scratch – the student knows them. Apply them.
+Hannah studies IT-pedagog (a one-year distance course at the folk high school in Tärna; course Pedagogik och digitala verktyg).
+
+**How we learn together is set by the skill learning-with-ai-and-swedish-vocabulary** (process, AI roles, pair work, vocabulary). This skill only adds what is specific to the IT-pedagog course: output format, study materials and pedagogical models.
+
+Don't explain the models from scratch – Hannah knows them. Apply them directly.
 
 ---
 
-## Steps for every school assignment
+## School outputs
 
-1. **The brief first.** Before writing, you need the text of the assignment. If you don't have it, ask for it – don't build on assumptions.
-2. **Checklist from the brief.** List briefly: what exactly is asked, format, length / time (e.g. 5 minutes), language, deadline, who submits, pair work or not, oral vs. written part and how they relate.
-3. **The simplest solution that meets the brief.** No extra tables, sections or documents. If a short text is asked for, deliver a short text.
-4. **One working version.** Edit one document (Czech + Swedish side by side). No parallel versions; when something changes, update that one and say where.
-5. **Facts only from the student.** Numbers, observations and roles come only from their words and materials. Invent nothing. If the student rewrites a passage they want to say exactly, use their wording.
-6. **Check before submitting.** Go through the output point by point against the checklist: what is missing, what goes beyond the brief, do length and time fit, do names and numbers match between the written work, the script and the slides.
+### Scope
+- **The simplest solution that meets the assignment.** No extra tables, sections or documents. When the assignment asks for a short text, deliver a short text.
+- **One working version.** We edit one document (Czech + Swedish version side by side). Don't create parallel versions; when something changes, update that one and say where.
+- When Hannah rewrites a text she wants to say exactly her way, use her wording (only add diacritics).
+- When checking, also make sure names and numbers match between the written work, the script and the slides.
 
-## The student's style
+### Language
+- Swedish at her level: short sentences, everyday words, no academic jargon.
+- When she wants a Czech version for orientation: a short Czech line under each Swedish sentence.
+- Write names in full: "svenska som andraspråk" (not SVA – the abbreviation has another meaning in Sweden).
+- Script for a presentation: short sentences for a calm pace (Hannah speaks more slowly, count about 90 words/min).
+- Survey/test questions: must say what to do and what is being rated (e.g. "Ge 1–5 stjärnor: …?").
 
-- Swedish at their level: short sentences, everyday words, no academic jargon.
-- Looks like their own documents: short numbered headings following the questions of the brief, continuous first-person text underneath, minimum tables and bullets.
-- In pair work mark the parts (student) / (classmate) and leave room for the classmate.
-- For orientation, a short Czech line under each Swedish sentence on request.
-- Presentation script: short sentences for a calm pace (about 90 words per minute).
-- Write names in full: "svenska som andraspråk" (not the abbreviation SVA, which has another meaning in Sweden).
-- Survey or test questions say what to do and what is rated (e.g. "Ge 1–5 stjärnor: …?").
+### Document format
+- Short numbered headings following the assignment's questions, with continuous text in the first person under them, minimal tables and bullets.
+- **Font:** Montserrat.
+- **Text alignment:** justified.
+- **Line spacing:** 1.5.
+
+### Saving
+- I save school documents as Google Docs on Drive in the to-processing folder, unless Hannah names another place. Not as Word files.
+- Hannah submits them herself in Classroom.
+
+---
+
+## Study materials
+
+The course materials are in one knowledge-base folder on Google Drive, and the skill points to it (links and IDs are left out of this public version). Contents: the school's material on PIC-RAT, Czech summaries on PICRAT, TPACK and GATI, choosing digital resources and GDPR, SAMR + AI, and Skolverket's materials "Artificiell intelligens i undervisningen". When in doubt, the course's own material takes precedence over this skill.
 
 ---
 
 ## RAT (Hughes, Thomas & Scharber, 2006)
-How technology changes existing teaching practice. Not a ladder from bad to good.
+How technology changes a teacher's existing practice. It is not a ladder from bad → good.
 
-| Level | Swedish | Check question |
+| Level | SV | Check question |
 |---|---|---|
-| R – Replacement | ersättning | Do we do the same, just digitally? |
-| A – Amplification | förstärkning | Do we do the same, but better / faster / more efficiently? |
-| T – Transformation | transformation | Did technology make a new way of learning possible that would not exist without it? |
+| R – Replacement | ersättning | Are we doing the same thing, just digitally? |
+| A – Amplification | förstärkning | Are we doing the same thing, but better / faster / more efficiently? |
+| T – Transformation | transformation | Did the technology enable a new way of learning that wouldn't exist without it? |
 
 ## PICRAT
-The course cites Kimmons (2016); published article Kimmons, Graham & West (2020). Cite as the course does.
+The school cites Kimmons (2016); the published article is Kimmons, Graham & West (2020). Cite as the course does.
 
 - **P – Passive:** the student receives · **I – Interactive:** works/interacts · **C – Creative:** creates. Memory aid: I receive → I interact → I create.
-- 3 × 3 matrix, first letter = student (P/I/C), second = technology (R/A/T): PR, PA, PT, IR, IA, IT, CR, CA, CT.
-- **Principle:** the use is rated, not the tool. The same tool can be PR or CT. PIC asks about the student – if the teacher makes the video, the students are still P.
-- **Steps:** 1) what does the student do? 2) what did technology add? 3) cell + reasoning 4) for borderline cases give both options (the A/T boundary is fuzzy) 5) how to move the activity higher.
-- When the student is practising, let them classify first.
+- A 3 × 3 matrix, first letter = student (P/I/C), second = technology (R/A/T): PR, PA, PT, IR, IA, IT, CR, CA, CT.
+- **Principle:** it is the use that is rated, not the tool. The same tool can be PR or CT. PIC asks about the student – when the teacher makes the video, the students are still P.
+- **Steps:** 1) what does the student do? 2) what did the technology bring? 3) cell + reasoning 4) for borderline cases give both options (the A/T line is blurry) 5) how to move the activity higher.
+- **School exercises:** PowerPoint during a lecture (PR), Google Classroom (PA), searching + a joint report (I/C), interactive whiteboard (IR), the teacher's video (P), students' film on the web (CA/CT), Mentimeter (IA). When Hannah is practising, let her place them herself first.
 
 ## SAMR (Puentedura) – orientation
-Substitution, Augmentation (enhancement) · Modification, Redefinition (transformation). One axis ≈ RAT; PICRAT also follows the student. Higher is not always better. Check the Swedish terms against the course.
+Substitution, Augmentation (enhancement) · Modification, Redefinition (transformation). One axis ≈ RAT; PIC-RAT also follows the student. Higher is not always better. Check the Swedish terms against the course.
 
 ## TPACK (Mishra & Koehler) – orientation
-The teacher's technological, pedagogical and content knowledge + context. GATI = draw your own diagram now / in a year. TPACK assesses the teacher, PICRAT assesses the activity.
-
-## Study materials
-Keep the course materials in one knowledge-base folder (e.g. on Google Drive) and let the skill point to it. A course's own material takes precedence over this skill when they differ. Don't save anything to the student's drive without being asked.
+The teacher's technological, pedagogical and content knowledge + context. GATI = draw your own diagram now / in a year. TPACK rates the teacher, PIC-RAT the activity.
