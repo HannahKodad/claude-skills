@@ -39,10 +39,9 @@ A skill is a set of instructions, not a technical lock. For hard limits, combine
 
 ## Contact
 
-- LinkedIn – Hannah Kodad: [add link]
-- LinkedIn – Smartflow AI: [add link]
-- LinkedIn – Smartflow AI – CZ: [add link]
-- Babička na treku: [add link]
+- LinkedIn – Hannah Kodad: [linkedin.com/in/hannah-kodad](https://www.linkedin.com/in/hannah-kodad/)
+- LinkedIn – Smartflow AI – CZ: [linkedin.com/showcase/111983362](https://www.linkedin.com/showcase/111983362/)
+- Babička na treku: [babickanatreku.cz](https://babickanatreku.cz/)
 
 ## License
 
