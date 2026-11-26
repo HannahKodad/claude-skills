@@ -9,6 +9,8 @@ I help individuals and small businesses use AI safely: data management, automati
 | Path | What it is |
 | --- | --- |
 | `skills/learning-with-ai/` | Base skill for learning **with** AI, never instead of the learner: teacher + assistant roles, one step at a time, vocabulary log for a second language (examples in Swedish). |
+| `skills/learning-with-ai-and-swedish-vocabulary/` | My own learning in Swedish (IT-pedagog, svenska som andraspråk, courses in Sweden): learning **with** AI, and every piece of work ends with new words for a Swedish–English–Czech vocabulary. English `SKILL.md`, Czech `SKILL.cs.md`. |
+| `skills/swedish-vocabulary/` | Svensk ordlista: a Swedish–English–Czech vocabulary built from every piece of work, as word-family blocks (all verb, noun and adjective forms, word breakdown, homonyms) for a Google Sheet that a language app can read. No duplicates. English `SKILL.md`, Czech `SKILL.cs.md`. |
 | `skills/data-guard/` | Safe data handling for clients' data: nothing is deleted by AI, to-delete folders, GDPR protection levels, confirmation cards, admin log. Companion to the data-guard plugin in [smartflow-ai-public](https://github.com/HannahKodad/smartflow-ai-public). |
 | `skills/meeting-to-offer/` | Turns a client meeting transcript into a needs analysis (every need backed by a quote) and a draft offer from your own price list. Two human checkpoints, no invented prices, nothing sent to the client. Includes a fictional end-to-end example in Czech. |
 | `skills/lecture-deck/` | Turns lecture content into a clean deck in an organization's template, with complete timed speaker notes. |
