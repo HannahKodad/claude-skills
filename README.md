@@ -10,6 +10,7 @@ I help individuals and small businesses use AI safely: data management, automati
 | --- | --- |
 | `skills/learning-with-ai/` | Base skill for learning **with** AI, never instead of the learner: teacher + assistant roles, one step at a time, vocabulary log for a second language (examples in Swedish). |
 | `skills/data-guard/` | Safe data handling for clients' data: nothing is deleted by AI, to-delete folders, GDPR protection levels, confirmation cards, admin log. Companion to the data-guard plugin in [smartflow-ai-public](https://github.com/HannahKodad/smartflow-ai-public). |
+| `skills/meeting-to-offer/` | Turns a client meeting transcript into a needs analysis (every need backed by a quote) and a draft offer from your own price list. Two human checkpoints, no invented prices, nothing sent to the client. Includes a fictional end-to-end example in Czech. |
 | `skills/lecture-deck/` | Turns lecture content into a clean deck in an organization's template, with complete timed speaker notes. |
 | `skills/ikt-pedagog/` | School assignments in ICT pedagogy and the frameworks RAT, PICRAT, SAMR and TPACK. |
 | `templates/TEMPLATE.md` | Template for specifying an AI agent: purpose, scope, access, approval points, tests, metrics and version history. |
