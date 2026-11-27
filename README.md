@@ -14,6 +14,7 @@ I help individuals and small businesses use AI safely: data management, automati
 | `skills/data-guard/` | Safe data handling for clients' data: nothing is deleted by AI, to-delete folders, GDPR protection levels, confirmation cards, admin log. Companion to the data-guard plugin in [smartflow-ai-public](https://github.com/HannahKodad/smartflow-ai-public). |
 | `skills/meeting-to-offer/` | Turns a client meeting transcript into a needs analysis (every need backed by a quote) and a draft offer from your own price list. Two human checkpoints, no invented prices, nothing sent to the client. Includes a fictional end-to-end example in Czech. |
 | `skills/lecture-deck/` | Turns lecture content into a clean deck in an organization's template, with complete timed speaker notes. |
+| `skills/podcast-making/` | Making a podcast episode from idea to published file: plan, script, recording, editing, music rights, MP3 export, file test and publishing. Learning mode (work **with** the learner) or production mode. Reference values for sample rate, bitrate and loudness (LUFS). |
 | `skills/ikt-pedagog/` | School assignments in ICT pedagogy and the frameworks RAT, PICRAT, SAMR and TPACK. |
 | `templates/TEMPLATE.md` | Template for specifying an AI agent: purpose, scope, access, approval points, tests, metrics and version history. |
 | `agents/agent-builder.md` | Example specification: the agent that designs, versions and reviews all other agents (anonymised). |
